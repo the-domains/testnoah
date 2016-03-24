@@ -1,0 +1,28 @@
+name: testnoah
+favicon: null
+layout_spectrum: 0.7335407780483365
+typography_spectrum: 0.7688425807282329
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.19490065262652934
+  lightness: 0.2677690840791911
+  saturation: 0.788615960162133
+  rhythmicContrast: 0.6170562694314867
+purpose: []
